@@ -37,7 +37,7 @@ This project is a simple **full‑stack web application** with:
 #### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/rohitroy080/my-app.git
 cd my-app
 ```
 
